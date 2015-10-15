@@ -1,0 +1,27 @@
+/*Formulario "ingresa a tu cuenta"*/
+.marco{
+    border: 5px solid #989898;
+    border-radius: 10%;
+    padding: 5% 5%;
+    color: #989898;
+}
+input{
+    width: 80%;
+    padding: 2% 1%;
+    margin: 0 10%;
+}
+
+    /*Botón INGRESAR*/
+.ingresar{
+    width: 30%;
+    height: 40px;
+    background-color:#28c5e6;
+    color: white;
+    margin:0 0 2% 70%;
+}
+    /*Texto pequeño*/
+.textpeque{
+    font-size: 14px;
+    color: gray;
+    margin-left: 10%;
+}

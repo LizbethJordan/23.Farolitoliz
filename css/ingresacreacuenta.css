@@ -1,0 +1,29 @@
+/*Formulario*/
+.rayas{
+	border-left: dashed #989898 1px;
+	margin-left: -3%;
+}
+input{
+	width: 90%;
+	padding: 10px 20px;
+}
+.notas{						/*letras pequeñas*/
+	margin-top: -3%;
+	margin-right: 20%;
+}
+	/*Botones INGRESAR y CUENTA*/
+.ingresar{
+	background-color: #28c5e6;
+	margin: 5% 0 5% 50%;
+	color: white;
+	width: 40%;
+}
+.cuenta{
+	background-color: #ff6a49;
+	margin: 5% 0 5% 50%;
+	color: white;
+	width: 40%;
+}
+.recorre{
+	margin-left: 9%;
+}

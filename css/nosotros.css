@@ -1,0 +1,49 @@
+/*Imágenes*/
+.backdibujo{
+	background-image: url(../img/fondos/img_nosotros-02.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 410px;
+	background-position: 0 70%;
+}
+.fotomujer{
+	background-image: url(../img/fondos/img-04.png);
+	width: 150px;
+	height: 150px;
+	margin: 10% auto;
+	background-repeat: no-repeat;
+	background-position: 50% 10%;
+	border-radius: 50%;
+    padding: 15px;
+    border: 1px solid gray;
+}
+.back-naranja{
+	background-color: #ff6a49;
+	height: 100%;
+	padding: 5% 0;
+}
+.foco{
+	background-image:url(../img/iconos/iconos-16b.png);
+	background-size: 10%;
+	height: 100px;
+	background-position: 50%;
+	background-repeat: no-repeat;
+}
+	/*Líneas*/
+hr{
+	border: 1px dashed #D8D8D8;
+	margin: 2% 0;
+}
+.lineapeque{
+	width: 70%;
+	margin:5% 15%!important;
+}
+/*CÍRCULOS "siguiente sección"*/
+.c8{
+	margin-top: 10%;
+	margin-left: 49%;
+}
+.c9{
+	margin-bottom: -5%;
+
+}

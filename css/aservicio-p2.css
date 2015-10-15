@@ -1,0 +1,23 @@
+/*Globo de diálogo y caricatura*/
+.detalle{
+	background-color:#ffc200;
+	margin: 10% 70%; 
+	width:150px;
+}
+
+.detalle-arrow{
+	border-color: #ffc200 transparent transparent transparent;
+	margin:15.5% 75%;
+}
+.caricatura{
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	margin: 18% -10%;
+}
+/*Textarea "Experiencia de trabajo"*/
+.textarea{
+	height: 100px;
+	width: 90%;
+	margin-top: 1%;
+}

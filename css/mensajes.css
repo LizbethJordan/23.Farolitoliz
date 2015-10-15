@@ -1,0 +1,68 @@
+/*CSS para todas las páginas que contienen un mensaje de exito o no al completar un formulario*/
+		/*PARA MUJER*/
+.imgmujer{
+	background-image: url(../img/personajes/ilustracion-26.png);
+	background-size: 20%;
+	height: 200px;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	margin-top: 5%;
+}
+  /*Botón IR AL PERFIL*/
+.perfil{
+    width: 20%;
+    height: 45px;
+    background-color:#ff6a49;
+    color: white;
+    margin-left:40%;
+    margin-top: -5%;
+    border: solid white 2px;
+}
+		/*PARA HOMBRE*/
+				/*Blanco*/
+.imghombreb{
+	background-image: url(../img/personajes/ilustracion-29.png);
+	background-size: 20%;
+	height: 200px;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	margin-top: 5%;
+}
+	/*Botón OPORTUNIDADES LABORALES*/ 
+.oportunidad{
+    width: 30%;
+    height: 45px;
+    background-color:#ff6a49;
+    color: white;
+    margin-left:35%;
+    margin-top: -4%;
+    border: solid white 2px;
+}
+			/*Amarillo*/
+.imghombrea{
+	background-image: url(../img/personajes/ilustracion-28.png);
+	background-size: 20%;
+	height: 200px;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	margin-top: 5%;
+}
+	  /*Botón IR AL PERFIL*/
+.completar{
+    width: 20%;
+    height: 45px;
+    background-color:#ff6a49;
+    color: white;
+    margin-left:40%;
+    margin-top: -4%;
+    border: solid white 2px;
+}
+/*Botón IR AL PERFIL sin imagen*/
+.perfil2{
+    width: 20%;
+    height: 45px;
+    background-color:#ff6a49;
+    color: white;
+    margin: 5% 40%;
+    border: solid white 2px;
+}

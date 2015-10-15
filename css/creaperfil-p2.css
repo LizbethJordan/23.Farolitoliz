@@ -1,0 +1,17 @@
+/*Globo de diálogo y chica*/
+.detalle{
+	background-color:#28c5e6;
+	margin: -10% 80%; 
+	width:150px;
+}
+
+.detalle-arrow{
+	border-color: #28c5e6 transparent transparent transparent;
+	margin:-3% 85%;
+}
+.caricatura{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	margin-left: 80%;
+}

@@ -1,0 +1,60 @@
+/*botón EDITAR PERFIL*/
+.eperfil{
+	border:1px solid #989898;
+	color:#989898;
+	height: 45px;
+	width: 80%;
+}
+section span{
+	font-weight: bold;
+}
+.lineapunteada{		/*División punteada*/
+	border-left: 1px dashed #989898; 
+	width:2px; 
+	margin: 5% auto;
+}
+.linea1{
+	height:1000px; 
+}
+.linea2{
+	height:650px; 
+}
+.lazul{ 			/*línea azul*/
+	text-decoration: underline;
+}
+/*Botón VER MÁS*/
+.vermas{
+    border: solid #ff6a49 2px;
+    color: #ff6a49;
+    width: 20%;  
+    margin-left:85%;
+}
+hr{
+	border: 1px dashed #E6E6E6;
+	margin: 5% 0;
+}
+/*Especificaciones para perfil-asesor.html*/
+h4{
+	color: #28c5e6;
+	padding: 2% 0;
+}
+	/*Botón VOLVER A LA LISTA y POSTULAR*/
+.postular{
+    border: solid #ff6a49 2px;
+    color: #ff6a49;
+    width: 99%;  
+    margin-left:10%;
+}
+.lista{
+    border: solid #989898 2px;
+    color: #989898;
+    width: 99%;  
+    margin-left:10%;
+}
+/*Especificaciones para perfil-listaypostul.html*/
+.vertodos{
+    background-color: #28c5e6;
+    color: white;
+    width: 30%;  
+    margin-left:35%;
+}

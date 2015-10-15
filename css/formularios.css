@@ -1,0 +1,64 @@
+/*CSS para formularios de "Crea tu perfil" y "Asesor de servicio"*/
+
+/*Punteado debajo del título de los formularios*/
+.dash{
+	border-bottom: dashed #989898 1px;
+}
+/*Mover elementos a la izquierda*/
+.izquierda{
+	float: left;
+}
+/*Formato para los cuadros del formulario*/
+input{
+	height: 30px;
+	width: 90%;
+	
+}
+	/*para los elementos con selección múltiple*/
+select{
+	color: gray;
+	height: 30px;
+	width: 90%;
+}
+.flecha select{		/*modificar la flecha de la casilla select (flecha azul)*/
+	border: 1px solid #ccc;
+	background: url(../img/iconos/iconos-30.png) no-repeat 100% 50% !important;
+	 -moz-appearance: none;
+	 -webkit-appearance: none;
+	 appearance: none;
+}
+	/*para elementos con checkbox*/
+.ancho30{  			/*Ancho del elemento*/
+	width: 5%;
+}
+.check{				/*Alto de la casilla*/
+	height: 15px;
+}
+/*Globo de diálogo y chico (comparte características con "Crea tu perfil página 2 y Asesor de servicio página 1"*/
+.dialogo {
+	border:1px solid black;
+	padding:10px;
+	position:absolute;
+	text-align:center;
+	border-radius:10px;
+}
+.dialogo-arrow{
+	border-style: solid;
+	border-width: 15px;
+	height:0;
+	width:0;
+	position:absolute;
+}
+/*Botones ATRÁS y CONTINUAR*/
+.atras{
+	width: 15%;
+	height: 40px;
+	background-color:#989898;
+	color: white;
+}
+.continuar{
+	width: 15%;
+	height: 40px;
+	background-color:#ff6a49;
+	color: white;
+}

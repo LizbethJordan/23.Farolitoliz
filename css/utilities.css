@@ -1,0 +1,124 @@
+/*Global - Fuentes*/
+*{
+	font-family: MuseoSans;
+}
+/*Otras fuentes*/
+@font-face{
+	font-family:MuseoSans;
+	src:url(../fonts/cuerpo/MuseoSans.otf);
+}
+/*Padding*/
+.pd-1{
+	padding: 1%;
+}
+.pd-2{
+	padding-top: 2%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-10{
+	padding: 10%;
+}
+.pd-a{
+	padding: 15% 7%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pb-10{
+	padding-bottom: 10%;
+}
+/*Margin*/
+.mg-0{
+	margin: 0;
+}
+.ml-2{
+	margin-left: 2%;
+}
+.ml-5{
+	margin-left: 5%;
+}
+
+/*Text*/
+.text-center{
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+}
+.text-justify{
+	text-align: justify;
+}
+/*Text color*/
+.text-grim{
+	color: #E0DFDA;
+}
+.text-gris{
+	color: #989898;
+}
+.text-griso{
+	color: #4d4545;
+}
+.text-azul{
+	color: #28c5e6; /*celeste*/
+}
+.text-naranja{
+	color:#ff6a49;
+}
+.text-verde{
+	color: #77d248;
+}
+.text-amarillo{
+	color: #ffc200;
+}
+.text-amarillom{
+	color: #F9D970;
+}
+.text-blanco{
+	color: white;
+	/*Font-size*/
+}
+.text-negro{
+	color: black;
+}
+.text-10{
+	font-size: 10px;
+}
+.text-12{ 
+	font-size: 12px;
+}
+.text-15{ 
+	font-size: 15px;
+}
+.text-20{
+	font-size: 20px;
+}
+.text-25{
+	font-size: 25px;
+}
+.text-30{
+	font-size: 30px;
+}
+
+
+	/*Text style*/
+.cursiva{
+	font-style: italic;
+}
+.text-b{
+	font-weight: bold;
+}
+/*Back ground color*/
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}

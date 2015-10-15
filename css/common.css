@@ -1,0 +1,26 @@
+/*BOTONES*/
+.boton{
+	padding: 10px;
+	font-size: 15px;
+	position: relative;
+	text-align: center;
+	font-weight:bold;
+	border-radius: 10px;
+}
+a{
+	text-decoration: none;
+}
+/*Círculo "siguiente sección" en Index.html*/
+.circulo{ 
+	width: 70px; 
+	height: 70px; 
+	background: url(../img/iconos/iconos-15.png) no-repeat; 
+	background-size: 100%;
+	margin: auto;
+	border-radius: 50%;
+	position: relative;
+}
+/*FOOTER*/
+.fgriso{				/*color de fondo para el footer de todas las páginas*/
+	background-color: #4d4545;
+}

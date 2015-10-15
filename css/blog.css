@@ -1,0 +1,22 @@
+/*BLOG FAROLITO*/
+.fotos{
+	width: 100px;
+	height: 100px;
+	margin-bottom: -15%;
+	border-radius: 50%;
+}
+	/*Cajas con im+ágen de perfil*/
+.cajaa{
+	width: 100%;
+	padding: 20% 5% 10%;
+	text-align: inherit;
+	height: 30%;
+}
+.backa{
+	background-color: #ffc200;
+	color: white;
+}
+.backg{
+	background-color: #E0DFDA;
+	color: #4d4545;
+}
